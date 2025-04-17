@@ -1,0 +1,3 @@
+audiolab
+numpy
+tqdm
