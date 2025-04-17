@@ -1,0 +1,30 @@
+*.dll
+*.dylib
+
+# ─ Python 가상환경
+venv/
+
+# ─ Python 바이트코드
+__pycache__/
+*.py[cod]
+
+# ─ 빌드·배포 아티팩트
+build/
+install/
+dist/
+*.egg-info/
+
+# ─ CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# ─ 파이썬 확장 모듈 (개발용)
+*.so
+
+# ─ 로그, OS별 메타파일
+*.log
+.DS_Store
+
+*.wav
